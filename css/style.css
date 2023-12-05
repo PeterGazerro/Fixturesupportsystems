@@ -132,7 +132,7 @@ body {
 
 .product-item img {
     display: block;
-    margin-left: auto;
+    margin: auto;
 }
 
 /*=== warning area start ===*/

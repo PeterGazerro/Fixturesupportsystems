@@ -181,7 +181,6 @@ Small Screen - Tablate
 
 	.product-item img {
 		max-width: 600px;
-		margin-right: auto;
 	}
 
 	/*=== warning area start ===*/
@@ -345,7 +344,7 @@ Small Screen - Mobile
 	/*=== product area start ===*/
 
 	.product-area {
-	    background-size: cover;
+	    background-size: 108% 100%;
 	    padding: 70px 0 50px;
 	    overflow: hidden;
 	}
@@ -356,10 +355,6 @@ Small Screen - Mobile
 
 	.product-item h2 br {
 		display: none;
-	}
-
-	.product-item-inner {
-		margin-right: -10px;
 	}
 
 	/*=== warning area start ===*/
